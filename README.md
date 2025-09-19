@@ -65,7 +65,8 @@ server_address=('',8000)
 httpd = HTTPServer(server_address,MyServer)
 httpd.serve_forever()        
 ```
-# OU![alt text](<Screenshot 2025-09-19 072627.png>)TPUT:
+# OUTPUT
+![alt text](<Screenshot 2025-09-19 072627.png>)
 ![alt text](<Screenshot 2025-09-19 173542.png>)
 
 # RESULT:
